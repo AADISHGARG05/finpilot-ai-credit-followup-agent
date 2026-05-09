@@ -1,0 +1,6 @@
+invoice_no,client_name,email,amount,due_date,followup_count,payment_link
+INV-1001,Rajesh Kapoor,rajesh@email.com,45000,2025-04-20,1,https://pay.company.com/inv1001
+INV-1002,Priya Sharma,priya@email.com,120000,2025-04-10,2,https://pay.company.com/inv1002
+INV-1003,Amit Verma,amit@email.com,78000,2025-03-25,3,https://pay.company.com/inv1003
+INV-1004,Neha Gupta,neha@email.com,250000,2025-03-15,4,https://pay.company.com/inv1004
+INV-1005,Vikram Singh,vikram@email.com,90000,2025-02-28,5,https://pay.company.com/inv1005

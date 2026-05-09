@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+python-dotenv
+langchain
+langchain-core
+langchain-groq
+pydantic
+sqlalchemy
+openpyxl
+faker
+tabulate
+groq
+matplotlib
